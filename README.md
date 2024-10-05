@@ -9,13 +9,13 @@
 确保你的计算机上安装了 Python 和 Tkinter 库。
 还需要安装 Pillow 库来处理图像效果，可以使用以下命令安装：
 pip install Pillow
-DiffCopyInsert
+
 准备背景图：
 
 将一张名为 tup.jpg 的图片放置于路径 C:\Users\Administrator\Desktop\xiaozi\ 下，确保该路径与代码中的路径一致。
 运行程序：
 
-将代码保存为 .py 文件，例如 love_article_app.py。
+将代码保存为 .py 文件
 在命令行中导航到文件所在目录并运行：
 python love_article_app.py
 DiffCopyInsert
@@ -38,5 +38,4 @@ DiffCopyInsert
 检查图片路径是否正确，确保 tup.jpg 文件存在于指定位置。
 模块未找到：
 
-确保安装了所需的库（特别是 Pillow）。
-运行应用程序后，按照指示操作，就可以轻松地查看文章内容并与他人分享你的喜爱了。希望你喜欢这个小应用！
+确保安装了所需的库（特别是 Pillow）！！！！！！！
